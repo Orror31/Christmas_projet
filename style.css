@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/Christmas_bg.jpg);
+    padding: 1% 10%;
+}
+form{
+
+    float: right;
+    border-radius: 20px;
+}
+input{
+    background-color: #ffffff;
+    opacity: 20px;
+    border: 2px solid #dc3545;
+    width: 200px;
+    border-radius: 15px;
+    height: 35px;
+}
+.submit{
+    background: transparent;
+    border: transparent;
+   
+}
+.button{
+    border-radius: 20px;
+    background-color: #ccc;
+}
+.button :hover{
+    transform: translate(0.5);
+}
+a{
+    text-decoration: none;
+}
+.search-button{
+    background: transparent!important;
+}
